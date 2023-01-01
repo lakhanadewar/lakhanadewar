@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lakhanadewar](https://github.com/lakhanadewar)
 
-- 💬 Ask me about **Java, Selenium, TestNg,Appium, Cucumber, SQL, Website Development**
+- 💬 Ask me about **Java, Selenium, TestNg, Appium, Cucumber, SQL, Website Development**
 
 - 📫 How to reach me **lakhanadewar@gmail.com**
 
