@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tractrology](https://play.google.com/store/apps/details?id=com.lakhan.tractrology_en)
 
-- 🌱 I’m currently learning **Appium, Cucumber for BDD framework**
+- 🌱 I’m currently learning **Something Awesome**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lakhanadewar](https://github.com/lakhanadewar)
 
