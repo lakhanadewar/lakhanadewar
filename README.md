@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Codeceptjs for mobile and web automation](https://codecept.io/)
 
-- 🌱 I’m currently learning **Devops with AWS**
+- 🌱 I’m currently learning **Salesforce Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lakhanadewar](https://github.com/lakhanadewar)
 
-- 💬 Ask me about **Java, Selenium, TestNg, Appium, Cucumber, SQL, Website Development**
+- 💬 Ask me about **Javascript, Codeceptjs, Salesforce, Java, Selenium, TestNg, Appium, Cucumber, SQL, Website Development**
 
 - 📫 How to reach me **lakhanadewar@gmail.com**
 
