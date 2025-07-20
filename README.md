@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Lakhan</h1>
 <h3 align="center">A passionate techie from India</h3>
 
-- 🔭 I’m currently working on [Codeceptjs for mobile and web automation](https://codecept.io/)
+- 🔭 I’m currently working on automation test frameworks using Robot Framework and Python for telecom applications.
+      I'm also building an Android web browser app in Java and experimenting with productivity and e-commerce app ideas like a jute bag store (Planet Pouch) and a gamified habit tracker.
 
-- 🌱 I’m currently learning **Salesforce Development**
+- 🌱 I’m currently learning:
+
+      Advanced Python techniques
+
+      Clean architecture and scalable backend design
+
+      DevOps basics: CI/CD, Docker, and cloud deployment
 
 - 👨‍💻 All of my projects are available at [https://github.com/lakhanadewar](https://github.com/lakhanadewar)
 
