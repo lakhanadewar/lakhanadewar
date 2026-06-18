@@ -16,13 +16,11 @@
 
 - 💬 Ask me about **Javascript, Codeceptjs, Salesforce, Java, Selenium, TestNg, Appium, Cucumber, SQL, Website Development**
 
-- 📫 How to reach me **lakhanadewar@gmail.com**
-
 - ⚡ Fun fact **Intel’s first microprocessor was intended for a calculator. Look where it’s led!**
 
 <h3 align="left">Connect with me:</h3>
-Email: [lakhanadewar@gmail.com](mailto:lakhanadewar@gmail.com)
-Medium Articles:  [@lakhanadewar](https://medium.com/@lakhanadewar)
+Email: lakhanadewar@gmail.com
+Medium Articles: https://medium.com/@lakhanadewar
 
 
 <h3 align="left">Languages and Tools:</h3>
